@@ -10,7 +10,8 @@ import 'react-toastify/dist/ReactToastify.css';
 import Login from './components/User/Login'
 import Profile from './components/User/Profile'
 import Cart from './components/Cart'
-import Address from "./components/Address.jsx";
+//import Address from "./components/Address.jsx";
+import address from './components/Address';
 import Checkout from "./components/Checkout";
 import OrderConfirmation from "./components/OrderConfirmation.jsx";
 
