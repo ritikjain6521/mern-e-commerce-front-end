@@ -12,7 +12,7 @@ import Profile from './components/User/Profile'
 import Cart from './components/Cart'
 import Address from "./components/Address";
 import Checkout from "./components/Checkout";
-import OrderConfirmation from "./components/OrderConfirmation";
+import OrderConfirmation from "./components/OrderConfirmation.jsx";
 
 
 
